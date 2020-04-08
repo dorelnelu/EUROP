@@ -44,3 +44,4 @@ Todas las Criptomonedas EUROP en circulación están garantizadas en el valor eq
 La utilización de EUROP como medio alternativo de pago da mas liquidez a las empresas e instituciones, facilita los pagos en reducción de tiempo de transacciones y costes.
 EUROP se puede almacenar en tu monedero de Criptomonedas y Tokens con costes de mantenimiento zero.
 Los depósitos de EUROP generan beneficios.
+https://etherscan.io/token/0x83a4c17e2397c6c7805a01e4cff9aba7d6a84ab3
