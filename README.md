@@ -45,3 +45,5 @@ La utilización de EUROP como medio alternativo de pago da mas liquidez a las em
 EUROP se puede almacenar en tu monedero de Criptomonedas y Tokens con costes de mantenimiento zero.
 Los depósitos de EUROP generan beneficios.
 https://etherscan.io/token/0x83a4c17e2397c6c7805a01e4cff9aba7d6a84ab3
+EUROP con 2 decimales
+https://etherscan.io/address/0x1a8b802d4d89f763e940f93e885a86a41ee89c9d
